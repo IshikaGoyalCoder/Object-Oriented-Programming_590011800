@@ -1,0 +1,3 @@
+Hello Ishika
+This is BufferedWriter example.
+Efficient file handling in Java.
